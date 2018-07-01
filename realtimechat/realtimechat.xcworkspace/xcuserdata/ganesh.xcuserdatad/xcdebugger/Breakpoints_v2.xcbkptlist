@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "realtimechat/Controller/LoginViewController.swift"
+            timestampString = "552072769.72838"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "loginButtonPressed(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "realtimechat/Controller/AppDelegate.swift"
+            timestampString = "552061173.026634"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "AppDelegate"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "realtimechat.AppDelegate.__deallocating_deinit"
+                  moduleName = "realtimechat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ganesh/Desktop/realtimechat/realtimechat/Controller/AppDelegate.swift"
+                  timestampString = "552061141.2970591"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "realtimechat.AppDelegate.__allocating_init() -&gt; realtimechat.AppDelegate"
+                  moduleName = "realtimechat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ganesh/Desktop/realtimechat/realtimechat/Controller/AppDelegate.swift"
+                  timestampString = "552061141.307979"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "realtimechat.AppDelegate.init() -&gt; realtimechat.AppDelegate"
+                  moduleName = "realtimechat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ganesh/Desktop/realtimechat/realtimechat/Controller/AppDelegate.swift"
+                  timestampString = "552061141.313476"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "realtimechat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ganesh/Desktop/realtimechat/realtimechat/Controller/AppDelegate.swift"
+                  timestampString = "552061141.318555"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
